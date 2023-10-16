@@ -1,0 +1,4 @@
+Halo Pak, Saya Galang Satriamahesa Putra Dewa dari Solo
+
+Resolusi Saya :
+- Membuat implementasi ML pada game
